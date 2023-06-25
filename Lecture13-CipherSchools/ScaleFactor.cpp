@@ -16,3 +16,4 @@ int main(){
   return 0;
 
 }
+//array elements are stored consectively in the memory.
